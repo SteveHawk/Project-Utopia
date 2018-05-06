@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed6c9b28-2705-4186-aa21-3ebc39643d55" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pos</find>
+      <find>if vars.Monster[choice - 1][0][0][nums[0]] == 1 or vars.Monster[choice - 1][0][0][nums[1]] == 1:</find>
+      <find>Life</find>
+      <find>time</find>
+      <find>input</find>
+      <find>energy</find>
+      <find>httplib</find>
+      <find>player</find>
+      <find>playerjust</find>
+      <find>playerjustmoved</find>
+      <find>utopia</find>
+      <find>getresult</find>
+      <find>choice</find>
+      <find>getmoves</find>
+      <find>6</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/00 Utopia Engine/test.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/Vars.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/activate.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/__init__.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/vars.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/time.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/main.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/life.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/utime.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/init.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/explore.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/workroom.py" />
+        <option value="$PROJECT_DIR$/tree-search.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/MCTS-sample.py" />
+        <option value="$USER_HOME$/Desktop/t.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/dice.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/tree-search.py" />
+        <option value="$PROJECT_DIR$/00 Utopia Engine/MCTS.py" />
+        <option value="$PROJECT_DIR$/Mente Carlo/MCTS.py" />
+        <option value="$PROJECT_DIR$/Mente Carlo/tree-search.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="3229" />
+    <option name="height" value="1749" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8NamingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project-Utopia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-Utopia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project-Utopia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-Utopia" type="462c0819:PsiDirectoryNode" />
+              <item name="Monte Carlo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project-Utopia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project-Utopia" type="462c0819:PsiDirectoryNode" />
+              <item name="Utopia Engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="03 Project Utopia" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="03 Project Utopia" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My Programs\Python\03 Project Utopia\00 Utopia Engine" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MCTS">
+    <configuration name="MCTS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03 Project Utopia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Monte Carlo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Monte Carlo/MCTS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="MCTS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03 Project Utopia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00 Utopia Engine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00 Utopia Engine/MCTS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03 Project Utopia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00 Utopia Engine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00 Utopia Engine/dice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03 Project Utopia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tree-search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="03 Project Utopia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00 Utopia Engine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00 Utopia Engine/tree-search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tree-search" />
+      <item itemvalue="Python.t" />
+      <item itemvalue="Python.dice" />
+      <item itemvalue="Python.MCTS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MCTS" />
+        <item itemvalue="Python.MCTS" />
+        <item itemvalue="Python.tree-search" />
+        <item itemvalue="Python.dice" />
+        <item itemvalue="Python.t" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\steve\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed6c9b28-2705-4186-aa21-3ebc39643d55" name="Default" comment="" />
+      <created>1509542954517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509542954517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="2578" height="1408" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11567312" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32795697" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32823813" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31777957" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32793522" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32743362" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39859438" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13698083" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329582" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.329582" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329582" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="31" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/main.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/workroom.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/explore.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/time.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/activate.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/main.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/workroom.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/explore.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/time.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/activate.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/main.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/workroom.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/explore.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/time.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/activate.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/main.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/explore.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/time.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/activate.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/main.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/time.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/explore.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/activate.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/test.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/test.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/activate.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/time.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-2036615904/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="792" column="12" lean-forward="true" selection-start-line="792" selection-start-column="12" selection-end-line="792" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/t.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/workroom.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/vars.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/init.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/life.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/explore.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/main.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/utime.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/MCTS-sample.py" />
+    <entry file="file://D:/Anaconda3/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="863" selection-start-line="863" selection-end-line="863" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/tree-search.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/MCTS.py" />
+    <entry file="file://$PROJECT_DIR$/00 Utopia Engine/dice.py" />
+    <entry file="file://$PROJECT_DIR$/Utopia Engine/dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utopia Engine/explore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1932">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mente Carlo/tree-search.py" />
+    <entry file="file://$PROJECT_DIR$/Mente Carlo/MCTS-sample.py" />
+    <entry file="file://$PROJECT_DIR$/Mente Carlo/MCTS.py" />
+    <entry file="file://$PROJECT_DIR$/Monte Carlo/MCTS-sample.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utopia Engine/init.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Monte Carlo/MCTS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="96" lean-forward="true" selection-start-line="2" selection-start-column="96" selection-end-line="2" selection-end-column="96" />
+          <folding>
+            <element signature="e#1039#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
