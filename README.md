@@ -38,7 +38,7 @@ Monte Carlo 文件夹下的 MCTS.py 为蒙特卡洛树搜索的入口。
 
 里面引用了很多博客、维基等内容，所有引用内容版权均归原作者所有。
 
-现在已经写的蒙特卡洛树的代码来自于<www.mcts.ai>，Python代码链接为 <http://mcts.ai/code/python.html>。网页上给出的是 Python 2 的代码，我在 Monte Carlo 文件夹下的 MCTS-sample.py 中把它转换成了 Python 3 的代码。
+现在已经写的蒙特卡洛树的代码来自于<www.mcts.ai> ，Python代码链接为 <http://mcts.ai/code/python.html>。网页上给出的是 Python 2 的代码，我在 Monte Carlo 文件夹下的 MCTS-sample.py 中把它转换成了 Python 3 的代码。
 
 ### 开发计划
 
