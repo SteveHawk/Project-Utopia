@@ -64,12 +64,12 @@ def combat(choice, result):
         # 受到攻击
         print("投出两点为 {} 和 {} 。".format(nums[0], nums[1]))
         if vars.Monster[choice - 1][level - 1][0][nums[0] - 1] == 1 or vars.Monster[choice - 1][level - 1][0][
-                    nums[1] - 1] == 1:
+            nums[1] - 1] == 1:
             print("你收到了一点伤害。\n")
             life.life_minus(1)
         # 打死怪物
         if vars.Monster[choice - 1][level - 1][1][nums[0] - 1] == 1 or vars.Monster[choice - 1][level - 1][1][
-                    nums[1] - 1] == 1:
+            nums[1] - 1] == 1:
             print("你获得了胜利。\n")
             # 可能获得零件
             if dice.dice(1) < level:
