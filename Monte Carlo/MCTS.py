@@ -142,7 +142,7 @@ class Node:
         """
         s = \
             sorted(self.childNodes,
-                   key=lambda c: c.wins / (c.visits + 1) + sqrt(5 * log(self.visits) / (c.visits + 1)))[
+                   key=lambda c: c.wins / (c.visits + 1) + sqrt(50 * log(self.visits) / (c.visits + 1)))[
                 -1]
         return s
 
@@ -246,7 +246,8 @@ def UCT(rootstate, timemax, timestamp, verbose=False):
 
     # Output some information about the tree - can be omitted
     if (verbose):
-        print(rootnode.TreeToString(0))
+        pass
+        # print(rootnode.TreeToString(0))
     else:
         pass
         # print(rootnode.ChildrenToString())
@@ -260,14 +261,14 @@ def UCTPlayGame():
     """
     state = UtopiaState()
     while (state.GetMoves() != []):
-        print(str(state))
-        m = UCT(rootstate=state, timemax=0.1, timestamp=time.time(),
+        # print(str(state))
+        m = UCT(rootstate=state, timemax=0.5, timestamp=time.time(),
                 verbose=False)  # play with values for itermax and verbose = True
-        print("Best Move: " + str(m) + "\n")
+        # print("Best Move: " + str(m) + "\n")
         state.DoMove(m)
-    print(str(state))
+    # print(str(state))
     result = state.GetResult()
-    print(result)
+    # print(result)
     return result[0]
 
 
@@ -284,7 +285,7 @@ def test():
     xax = []
     yax = []
     for i in range(1, times + 1):
-        print("No. {} ".format(i))
+        # print("No. {} ".format(i))
         result = UCTPlayGame()
         if result == excellent_edge:
             perfect += 1
@@ -294,11 +295,11 @@ def test():
             normal += 1
         else:
             fail += 1
-        print("perfect percentage: {}% \n"
-              "great percentage: {}% \n"
-              "normal percentage: {}% \n"
-              "fail percentage: {}% ".format(100 * perfect / i, 100 * great / i, 100 * normal / i,
-                                             100 * fail / i))
+        # print("perfect percentage: {}% \n"
+        #       "great percentage: {}% \n"
+        #       "normal percentage: {}% \n"
+        #       "fail percentage: {}% ".format(100 * perfect / i, 100 * great / i, 100 * normal / i,
+        #                                      100 * fail / i))
         xax.append(i)
         yax.append(100 - 100 * fail / i)
         plt.plot(xax, yax)
